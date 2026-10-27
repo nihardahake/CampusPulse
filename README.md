@@ -157,8 +157,8 @@ Tests cover: ticket state transitions, auto-assignment fairness, duplicate detec
 | Backend | Render | Set all `server/.env` variables in Render dashboard |
 
 **Live URLs:**
-- Frontend: `[add Vercel URL]`
-- Backend API: `[add Render URL]`
+- Frontend: `https://campuspulse-pi.vercel.app/`
+- Backend API: `https://campuspulse-78uj.onrender.com/api`
 
 ## Project Demo Video
 
